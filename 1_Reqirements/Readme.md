@@ -25,3 +25,12 @@ What
 
 Why
 -this project uses simple function it is very compact to work.
+
+High Level Requirements:
+  
+  This project requires a random number generator function.                           
+  
+  Low level Requirements:
+  
+  The Random number has to generate the numbers with in the specified range of number.
+  The comparasion of the character from the player input and the computer generated has to be taken care.
