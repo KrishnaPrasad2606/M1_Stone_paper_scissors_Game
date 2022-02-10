@@ -23,6 +23,13 @@ Success
 -Has a quick response feels like playing with another human.
 
 Weakness
+-The game is played for the total of three points only.
+
+opportunity
+-This game can be extended to two players.
+
+Threads
+-when user gives invlid input the code does not warn the player.
 -
 # 4W and 1H
 Who
