@@ -30,7 +30,7 @@ opportunity
 
 Threads
 -when user gives invlid input the code does not warn the player.
--
+
 # 4W and 1H
 Who
 -One can be used as a fun game it can be upgraded to have more features.
