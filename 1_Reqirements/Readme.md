@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 Rock, paper, scissors is an example of a zero-sum game 
 without perfect information. Whenever one player wins, 
@@ -6,7 +6,7 @@ the other loses. We can express this game using a
 payoff matrix that explains what one player gains 
 with each strategy the players use.
 
-Objective
+# Objective
 
 The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a weapon that defeats their choice under the following rules:
 
@@ -18,7 +18,7 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
 
 *If players choose the same weapon, neither win and the game is played again
 
-4W and 1H
+# 4W and 1H
 Who
 -One can be used as a fun game it can be upgraded to have more features.
 
@@ -28,11 +28,11 @@ What
 Why
 -this project uses simple function it is very compact to work.
 
-High Level Requirements:
+# High Level Requirements:
   
   This project requires a random number generator function.                           
   
-  Low level Requirements:
+# Low level Requirements:
   
   The Random number has to generate the numbers with in the specified range of number.
   The comparasion of the character from the player input and the computer generated has to be taken care.
