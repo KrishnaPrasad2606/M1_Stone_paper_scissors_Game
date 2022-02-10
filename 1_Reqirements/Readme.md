@@ -18,6 +18,12 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
 
 *If players choose the same weapon, neither win and the game is played again
 
+# SWOT Analysis.
+Success
+-Has a quick response feels like playing with another human.
+
+Weakness
+-
 # 4W and 1H
 Who
 -One can be used as a fun game it can be upgraded to have more features.
