@@ -28,6 +28,12 @@ What
 Why
 -this project uses simple function it is very compact to work.
 
+When
+-this project is used as a fun activity.
+
+How
+-this project is developed in c progamming.
+
 # High Level Requirements:
   
   This project requires a random number generator function.                           
