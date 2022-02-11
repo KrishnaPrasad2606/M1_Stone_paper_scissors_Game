@@ -12,5 +12,5 @@ Rock, paper, scissors is an example of a zero-sum game without perfect informati
 # Code Quality Score -Codiga
 ![Code grade](https://api.codiga.io/project/30961/score/svg)
 
-# Code garde
+# Code grade
 ![Code grade](https://api.codiga.io/project/30961/status/svg)
