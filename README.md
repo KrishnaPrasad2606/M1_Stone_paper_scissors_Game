@@ -10,7 +10,7 @@ Rock, paper, scissors is an example of a zero-sum game without perfect informati
 [![C/C++ CI](https://github.com/KrishnaPrasad2606/M1_Stone_paper_scissors_Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KrishnaPrasad2606/M1_Stone_paper_scissors_Game/actions/workflows/c-cpp.yml)
 
 # Code Quality Score -Codiga
-https://api.codiga.io/project/30961/score/svg
+![Code grade](https://api.codiga.io/project/30961/score/svg)
 
 # Code garde
-https://api.codiga.io/project/30961/status/svg
+![Code grade](https://api.codiga.io/project/30961/status/svg)
