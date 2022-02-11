@@ -1,4 +1,4 @@
-# M1_Stone_paper_scissors_Game
+#M1_Stone_paper_scissors_Game
 Rock, paper, scissors is an example of a zero-sum game without perfect information. Whenever one player wins, the other loses. We can express this game using a payoff matrix that explains what one player gains with each strategy the players use.
 
 #Folder Structure
